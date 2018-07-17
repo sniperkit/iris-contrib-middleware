@@ -3,8 +3,8 @@ package i18n
 import (
 	"strings"
 
-	"github.com/kataras/iris/context"
 	"github.com/nicksnyder/go-i18n/i18n/bundle"
+	"github.com/sniperkit/iris/context"
 )
 
 // I18n the struct

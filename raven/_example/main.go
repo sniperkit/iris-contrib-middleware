@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kataras/iris"
+	"github.com/sniperkit/iris"
 
 	// $ go get github.com/getsentry/raven-go
 	"github.com/getsentry/raven-go"

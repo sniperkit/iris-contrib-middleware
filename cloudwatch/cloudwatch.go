@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/kataras/iris/context"
+	"github.com/sniperkit/iris/context"
 
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/awserr"

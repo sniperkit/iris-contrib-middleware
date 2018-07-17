@@ -2,7 +2,7 @@ package main
 
 import (
 	i18n "github.com/iris-contrib/middleware/go-i18n"
-	"github.com/kataras/iris"
+	"github.com/sniperkit/iris"
 )
 
 type User struct {

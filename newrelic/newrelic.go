@@ -1,7 +1,7 @@
 package newrelic
 
 import (
-	"github.com/kataras/iris/context"
+	"github.com/sniperkit/iris/context"
 
 	"github.com/newrelic/go-agent"
 )

@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"runtime/debug"
 
-	"github.com/kataras/iris/context"
+	"github.com/sniperkit/iris/context"
 
 	"github.com/getsentry/raven-go"
 )

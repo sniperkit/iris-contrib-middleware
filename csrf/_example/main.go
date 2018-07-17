@@ -11,7 +11,7 @@
 package main
 
 import (
-	"github.com/kataras/iris"
+	"github.com/sniperkit/iris"
 
 	"github.com/iris-contrib/middleware/csrf"
 )

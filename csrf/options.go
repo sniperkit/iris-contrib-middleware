@@ -1,6 +1,6 @@
 package csrf
 
-import "github.com/kataras/iris/context"
+import "github.com/sniperkit/iris/context"
 
 // Option describes a functional option for configuring the CSRF handler.
 type Option func(*Csrf)

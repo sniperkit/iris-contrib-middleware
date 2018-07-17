@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/iris-contrib/middleware/permissionbolt"
-	"github.com/kataras/iris"
+	"github.com/sniperkit/iris"
 )
 
 func main() {

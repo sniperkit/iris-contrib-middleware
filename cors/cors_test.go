@@ -6,8 +6,8 @@ import (
 
 	"github.com/iris-contrib/middleware/cors"
 
-	"github.com/kataras/iris"
-	"github.com/kataras/iris/httptest"
+	"github.com/sniperkit/iris"
+	"github.com/sniperkit/iris/httptest"
 )
 
 func TestCorsAllowOrigins(t *testing.T) {

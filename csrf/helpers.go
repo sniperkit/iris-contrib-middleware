@@ -9,7 +9,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/kataras/iris/context"
+	"github.com/sniperkit/iris/context"
 )
 
 // Token returns a masked CSRF token ready for passing into HTML template or
